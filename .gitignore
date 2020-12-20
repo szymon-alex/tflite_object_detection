@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# tf dirs
+object_detection/
+tflite-env/
+
+
+
 # C extensions
 *.so
 
